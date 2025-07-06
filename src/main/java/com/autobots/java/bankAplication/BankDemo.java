@@ -24,7 +24,7 @@ public class BankDemo {
         zinaidaDemir.deposit(5000);
         System.out.println(zinaidaDemir.getBalance());
 
-//        zinaidaDemir.withDraw(5000000);
+//        zinaidaDemir.withDraw(5000000); 
 
         System.out.println("-----54656586489---");
 
