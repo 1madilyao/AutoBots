@@ -20,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Phone" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -30,25 +35,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BankDemo.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.FindAverageSalary2.executor": "Run",
-    "Application.FindAverageSlary.executor": "Run",
-    "Application.FlatMap.executor": "Run",
-    "Application.HomeWork.executor": "Run",
-    "Application.LambdaLessons.executor": "Run",
-    "Application.Obs.executor": "Run",
-    "Application.StreamAPiLesson.executor": "Run",
-    "Application.com.autobots.java.bankAplication2.Demo.executor": "Run",
-    "Application.com.autobots.java.bankApp.Demo.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "onboarding.tips.debug.path": "/Users/1madilyao/IdeaProjects/AutoBots/src/main/java/com/autobots/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BankDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindAverageSalary2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindAverageSlary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlatMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HomeWork.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LambdaLessons.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Obs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamAPiLesson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.autobots.java.bankAplication2.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.autobots.java.bankApp.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/1madilyao/IdeaProjects/AutoBots/src/main/java/com/autobots/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.autobots.streamApi" />
@@ -120,24 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="AutoBots" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="AutoBots" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Obs" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.com.autobots.java.bankApp.Demo" />
         <item itemvalue="Application.com.autobots.java.bankAplication2.Demo" />
         <item itemvalue="Application.BankDemo" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
