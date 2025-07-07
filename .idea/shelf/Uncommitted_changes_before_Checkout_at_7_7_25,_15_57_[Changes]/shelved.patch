@@ -1,0 +1,68 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"b6c0a4f9-fad9-4692-8693-e29fc9de54b3\" name=\"Changes\" comment=\"\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Interface\" />\n        <option value=\"Enum\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"Phone\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 2\n}</component>\n  <component name=\"ProjectId\" id=\"2ywDFpMj2eiCclLmaDWPqTsOAg1\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;Application.BankDemo.executor&quot;: &quot;Run&quot;,\n    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,\n    &quot;Application.FindAverageSalary2.executor&quot;: &quot;Run&quot;,\n    &quot;Application.FindAverageSlary.executor&quot;: &quot;Run&quot;,\n    &quot;Application.FlatMap.executor&quot;: &quot;Run&quot;,\n    &quot;Application.HomeWork.executor&quot;: &quot;Run&quot;,\n    &quot;Application.LambdaLessons.executor&quot;: &quot;Run&quot;,\n    &quot;Application.Obs.executor&quot;: &quot;Run&quot;,\n    &quot;Application.StreamAPiLesson.executor&quot;: &quot;Run&quot;,\n    &quot;Application.com.autobots.java.bankAplication2.Demo.executor&quot;: &quot;Run&quot;,\n    &quot;Application.com.autobots.java.bankApp.Demo.executor&quot;: &quot;Run&quot;,\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\n    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/1madilyao/IdeaProjects/AutoBots/src/main/java/com/autobots/Main.java&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"CreateClassDialog.RecentsKey\">\n      <recent name=\"com.autobots.streamApi\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Application.Obs\">\n    <configuration name=\"BankDemo\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.autobots.java.bankAplication.BankDemo\" />\n      <module name=\"AutoBots\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.autobots.java.bankAplication.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Demo\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.autobots.java.lambda.lambda.Demo\" />\n      <module name=\"AutoBots\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.autobots.java.lambda.lambda.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Obs\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.autobots.java.lambda.Obs\" />\n      <module name=\"AutoBots\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.autobots.java.lambda.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"com.autobots.java.bankAplication2.Demo\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.autobots.java.bankAplication2.Demo\" />\n      <module name=\"AutoBots\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.autobots.java.bankAplication2.BankBase\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"com.autobots.java.bankApp.Demo\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.autobots.java.bankApp.Demo\" />\n      <module name=\"AutoBots\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.autobots.java.bankApp.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.Obs\" />\n        <item itemvalue=\"Application.Demo\" />\n        <item itemvalue=\"Application.com.autobots.java.bankApp.Demo\" />\n        <item itemvalue=\"Application.com.autobots.java.bankAplication2.Demo\" />\n        <item itemvalue=\"Application.BankDemo\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"b6c0a4f9-fad9-4692-8693-e29fc9de54b3\" name=\"Changes\" comment=\"\" />\n      <created>1750736643206</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1750736643206</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/com/autobots/Main.java</url>\n          <line>13</line>\n          <option name=\"timeStamp\" value=\"1\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/com/autobots/java/streamApi/StreamAPiLesson.java</url>\n          <line>8</line>\n          <option name=\"timeStamp\" value=\"2\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/main/java/com/autobots/java/lambda/HomeWork.java</url>\n          <line>8</line>\n          <option name=\"timeStamp\" value=\"4\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 437f889f91ef9f93cb6fb1e6b053aa0cceb18b1e)
++++ b/.idea/workspace.xml	(date 1751865413267)
+@@ -4,7 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="b6c0a4f9-fad9-4692-8693-e29fc9de54b3" name="Changes" comment="" />
++    <list default="true" id="b6c0a4f9-fad9-4692-8693-e29fc9de54b3" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/src/main/java/com/autobots/new_version.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -35,26 +38,26 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;Application.BankDemo.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.FindAverageSalary2.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.FindAverageSlary.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.FlatMap.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.HomeWork.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.LambdaLessons.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.Obs.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.StreamAPiLesson.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.com.autobots.java.bankAplication2.Demo.executor&quot;: &quot;Run&quot;,
+-    &quot;Application.com.autobots.java.bankApp.Demo.executor&quot;: &quot;Run&quot;,
+-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/1madilyao/IdeaProjects/AutoBots/src/main/java/com/autobots/Main.java&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Application.BankDemo.executor": "Run",
++    "Application.Demo.executor": "Run",
++    "Application.FindAverageSalary2.executor": "Run",
++    "Application.FindAverageSlary.executor": "Run",
++    "Application.FlatMap.executor": "Run",
++    "Application.HomeWork.executor": "Run",
++    "Application.LambdaLessons.executor": "Run",
++    "Application.Obs.executor": "Run",
++    "Application.StreamAPiLesson.executor": "Run",
++    "Application.com.autobots.java.bankAplication2.Demo.executor": "Run",
++    "Application.com.autobots.java.bankApp.Demo.executor": "Run",
++    "ModuleVcsDetector.initialDetectionPerformed": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.git.unshallow": "true",
++    "git-widget-placeholder": "feature-Serch",
++    "onboarding.tips.debug.path": "/Users/1madilyao/IdeaProjects/AutoBots/src/main/java/com/autobots/Main.java"
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
+     <key name="CreateClassDialog.RecentsKey">
+       <recent name="com.autobots.streamApi" />

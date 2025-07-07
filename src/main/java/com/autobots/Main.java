@@ -13,15 +13,5 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
-        //git puul
-
-        // git pool
-
-        // madina
-
-        // Madina20hfjd
-
-        // Madina2025
-        
     }
 }
