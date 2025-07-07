@@ -15,8 +15,5 @@ public class Calculator {
         return a / b;
     }
 
-    // hello world
-    // madina
-    // Madina2025
     
 }
